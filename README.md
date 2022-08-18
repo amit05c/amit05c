@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on projects, Freelancing
 
-  <li> <a href="#">My portfolio</a></li> 
+  <li> <a href="https://portfolio-7fmdgq35z-amit05c.vercel.app/">My portfolio</a></li> 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/amit05c?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
