@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
-<h3 align="center">A passionate frontend developer</h3>
+
+<div>
+<h2>About me:</h2>
+<li>A aspiring passionate frontend developer</li>
+<li>Currently learnig frontend development in Masai School</li>
+<li> <a href="#" target="_blank" /> My portfolio</li>
+
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
