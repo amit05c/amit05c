@@ -23,6 +23,8 @@
 - 👯 I’m looking to collaborate on projects, Freelancing
 
   <li> <a href="https://amit05c.github.io/portfolio/" target="_blank">My portfolio</a></li> 
+  <br/>
+   <li> <a href="https://drive.google.com/file/d/1ygjZWzdX35saiuJFASk5Ff63EEcT4pIR/view?usp=sharing" target="_blank">My resume</a></li> 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/amit05c?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
