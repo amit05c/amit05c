@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit05c&label=Profile%20views&color=0e75b6&style=flat" alt="rs230498" /> </p>
 
 </p>
-<div size='20px'> Hi! My name is Amit. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! This is Amit. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
