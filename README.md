@@ -24,7 +24,7 @@
 
   <li> <a href="https://amit05c.github.io/portfolio/" target="_blank">My portfolio</a></li> 
   <br/>
-   <li> <a href="https://drive.google.com/file/d/1ygjZWzdX35saiuJFASk5Ff63EEcT4pIR/view?usp=sharing" target="_blank">My resume</a></li> 
+   <li> <a href="https://drive.google.com/file/d/1OUbZUZI8I1Cvxa2qUPpbR1OvS5F9Od9K/view" target="_blank">My resume</a></li> 
    
    
    
